@@ -1,4 +1,4 @@
-package com.example.SpringBootWithDataJPA.accessingdatajpa;
+package com.example.accessingdatajpa;
 
 import java.util.List;
 

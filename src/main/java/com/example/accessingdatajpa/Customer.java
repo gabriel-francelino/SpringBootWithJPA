@@ -1,4 +1,4 @@
-package com.example.SpringBootWithDataJPA.accessingdatajpa;
+package com.example.accessingdatajpa;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
